@@ -39,7 +39,7 @@
 	#define TMCRhino_RAMPSTAT   	0x35
 	#define TMCRhino_XLATCH     	0x36
 	#define TMCRhino_ENCMODE    	0x38
-	#define TMCRhino_XENC       	0x39
+	#define TMCRhino_XENC       	0x39//encoder stuff
 	#define TMCRhino_ENC_CONST  	0x3A
 	#define TMCRhino_ENC_STATUS 	0x3B
 	#define TMCRhino_ENC_LATCH  	0x3C
@@ -102,3 +102,4 @@
 	#define TMCRhino_RS_ZEROWAIT       0x0800
 	#define TMCRhino_RS_SECONDMOVE     0x1000
 	#define TMCRhino_RS_SG             0x2000
+	
